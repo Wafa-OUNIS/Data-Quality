@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" ?><UnivMarseille>
+	<etudiant>
+		<etuID>818853670</etuID>
+		<Nom>Elijah</Nom>
+		<Prenom>Bianca</Prenom>
+		<Nationalite>Kuwait</Nationalite>
+		<Telephone>+33 5 50 80 54 04</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Bianca.Elijah@univ-evry.fr</Email>
+		<Salaire>933</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>813244376</etuID>
+		<Nom>Ounis</Nom>
+		<Prenom>Wafa</Prenom>
+		<Nationalite>Tunisie</Nationalite>
+		<Telephone>+33 5 46 10 54 04</Telephone>
+		<Adresse>95000</Adresse>
+		<Email>Wafa.Ounis@univ-evry.fr</Email>
+		<Salaire>1</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>813244376</etuID>
+		<Nom>Linus</Nom>
+		<Prenom>Victor</Prenom>
+		<Nationalite>British</Nationalite>
+		<Telephone>+33 5 46 10 74 04</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Victor.Linus@univ-evry.fr</Email>
+		<Salaire>364</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>818888658</etuID>
+		<Nom>Quamar</Nom>
+		<Prenom>Xander</Prenom>
+		<Nationalite>Saint Lucia</Nationalite>
+	        <Telephone>+33 5 50 60 54 04</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Xander.Quamar@univ-evry.fr</Email>
+		<Salaire>1181</Salaire>
+	</etudiant>
+        <etudiant>
+		<etuID>818850658</etuID>
+		<Nom>Bouzid</Nom>
+		<Prenom>Achref</Prenom>
+		<Nationalite>Tunisie</Nationalite>
+	        <Telephone>+33 6 56 56 25 25</Telephone>
+		<Adresse>75000</Adresse>
+		<Email>Achref.Bouzid@univ-evry.fr</Email>
+		<Salaire>0</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>813488005</etuID>
+		<Nom>Barry</Nom>
+		<Prenom>Alma</Prenom>
+		<Nationalite>United States</Nationalite>
+		<Telephone>+33 9 50 56 40 25</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Alma.Barry@univ-evry.fr</Email>
+		<Salaire>1177</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>815297595</etuID>
+		<Nom>Joseph</Nom>
+		<Prenom>Zeph</Prenom>
+		<Nationalite>Trinidad and Tobago</Nationalite>
+		<Telephone>+33 2 61 92 68 49</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Zeph.Joseph@univ-evry.fr</Email>
+		<Salaire>1162</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>816280489</etuID>
+		<Nom>Summer</Nom>
+		<Prenom>Ashton</Prenom>
+		<Nationalite>Guadeloupe</Nationalite>
+		<Telephone>+33 5 79 16 08 66</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Ashton.Summer@univ-evry.fr</Email>
+		<Salaire>188</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>812894433</etuID>
+		<Nom>Melissa</Nom>
+		<Prenom>Demetrius</Prenom>
+		<Nationalite>Guinea</Nationalite>
+		<Telephone>+33 6 38 99 08 39</Telephone>
+	    <Adresse>31118</Adresse>
+		<Email>Demetrius.Melissa@univ-evry.fr</Email>
+		<Salaire>1307</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>814419652</etuID>
+		<Nom>Zahir</Nom>
+		<Prenom>Dieter</Prenom>
+		<Nationalite>Venezuela</Nationalite>
+		<Telephone>+33 6 84 96 92 29</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Dieter.Zahir@univ-evry.fr</Email>
+		<Salaire>554</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>815953096</etuID>
+		<Nom>Abraham</Nom>
+		<Prenom>Katell</Prenom>
+		<Nationalite>Sao Tome and Principe</Nationalite>
+		<Telephone>+33 1 00 62 93 17</Telephone>
+		<Adresse>98662</Adresse>
+		<Email>Katell.Abraham@univ-evry.fr</Email>
+		<Salaire>745</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>811752231</etuID>
+		<Nom>Jescie</Nom>
+		<Prenom>Lacy</Prenom>
+		<Nationalite>Bolivia</Nationalite>
+		<Telephone>+33 3 06 11 56 65</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Lacy.Jescie@univ-evry.fr</Email>
+		<Salaire>1230</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>816811416</etuID>
+		<Nom>Lawrence</Nom>
+		<Prenom>Blair</Prenom>
+		<Nationalite>India</Nationalite>
+		<Telephone>+33 8 94 28 45 53</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Blair.Lawrence@univ-evry.fr</Email>
+		<Salaire>440</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>810499547</etuID>
+		<Nom>Aladdin</Nom>
+		<Prenom>Leila</Prenom>
+		<Nationalite>Algerie</Nationalite>
+		<Telephone>+33 4 52 65 85 83</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Leila.Aladdin@univ-evry.fr</Email>
+		<Salaire>379</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>816324446</etuID>
+		<Nom>Violet</Nom>
+		<Prenom>Kristen</Prenom>
+		<Nationalite>British Indian Ocean Territory</Nationalite>
+		<Telephone>+33 7 34 11 67 01</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Kristen.Violet@univ-evry.fr</Email>
+		<Salaire>158</Salaire>
+	</etudiant>
+    <etudiant>
+        <etuID>815655994</etuID>
+        <Nom>El-Mir</Nom>
+        <Prenom>Omar</Prenom>
+        <Nationalite>Tunisie</Nationalite>
+        <Telephone>+33 7 14 31 10 58</Telephone>
+	<Adresse>95250</Adresse>
+        <Email> </Email>
+        <Salaire>22.00</Salaire></etudiant>
+		
+    <etudiant>
+        <etuID>811765494</etuID>
+        <Nom>ounis</Nom>
+        <Prenom>Ahlem</Prenom>
+        <Nationalite>Tunisie</Nationalite>
+        <Telephone>+33 1 18 73 99 34</Telephone>
+ 	<Adresse>94000</Adresse>
+        <Email> </Email>
+        <Salaire>414.00</Salaire>
+</etudiant>
+    <etudiant>
+		<etuID>817990418</etuID>
+		<Nom>Keith</Nom>
+		<Prenom>Rina</Prenom>
+		<Nationalite>Panama</Nationalite>
+		<Telephone>+33 7 78 81 96 85</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Rina.Keith@univ-evry.fr</Email>
+		<Salaire>1099</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>810045567</etuID>
+		<Nom>Alan</Nom>
+		<Prenom>Dominique</Prenom>
+		<Nationalite>Rwanda</Nationalite>
+		<Telephone>+33 9 54 04 28 68</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Dominique.Alan@univ-evry.fr</Email>
+		<Salaire>578</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>813263935</etuID>
+		<Nom>Walker</Nom>
+		<Prenom>Ivory</Prenom>
+		<Nationalite>United States</Nationalite>
+		<Telephone>+33 7 85 77 32 00</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Ivory.Walker@univ-evry.fr</Email>
+		<Salaire>465</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>810312519</etuID>
+		<Nom>Dustin</Nom>
+		<Prenom>Jasper</Prenom>
+		<Nationalite>El-Salvador</Nationalite>
+		<Telephone>+33 6 26 31 67 63</Telephone>
+		<Adresse>71914</Adresse>
+		<Email>Jasper.Dustin@univ-evry.fr</Email>
+		<Salaire>1003</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>814519048</etuID>
+		<Nom>Nolan</Nom>
+		<Prenom>Eaton</Prenom>
+		<Nationalite>British Indian Ocean Territory</Nationalite>
+		<Telephone>+33 4 78 50 70 91</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Eaton.Nolan@univ-evry.fr</Email>
+		<Salaire>821</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>812617774</etuID>
+		<Nom>Kasper</Nom>
+		<Prenom>Ila</Prenom>
+		<Nationalite>Jersey</Nationalite>
+		<Telephone>+33 4 52 66 04 07</Telephone>
+		<Adresse>31118</Adresse>
+		<Email>Ila.Kasper@univ-evry.fr</Email>
+		<Salaire>384</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>811436467</etuID>
+		<Nom>Rebecca</Nom>
+		<Prenom>Armand</Prenom>
+		<Nationalite>Francaise</Nationalite>
+		<Telephone>+33 2 68 29 52 06</Telephone>
+		<Adresse>93005</Adresse>
+		<Email>Armand.Rebecca@univ-evry.fr</Email>
+		<Salaire>184</Salaire>
+	</etudiant>
+	<etudiant>
+		<etuID>811123467</etuID>
+		<Nom>zarrouki</Nom>
+		<Prenom>wafa</Prenom>
+		<Nationalite>Tunisie</Nationalite>
+		<Telephone>+33 5 68 29 52 06</Telephone>
+		<Adresse>78140</Adresse>
+		<Email> </Email>
+		<Salaire>184</Salaire>
+	</etudiant>
+
+</UnivMarseille>

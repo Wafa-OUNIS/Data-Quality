@@ -1,0 +1,61 @@
+NumEtudiant;Nom;Prenom;Nationalite;NumTelephone;Adresse;Email;Revenus
+600489624;Rebecca;Armand;Francaise;06 98 75 49 87;93005;Armand.Rebecca@u-psud.fr;0
+600798568;Aimelle;Hebert;Francaise;06 98 75 45 87;92548;Hebert.Aimelle@u-psud.fr;623
+600508568;Ronan;Aidan;Central African Republic;05 80 00 35 23;32508;Aidan.Ronan@u-psud.fr;4
+600489624;Zeph;Veda;Chile;07 06 56 49 95;32448;Veda.Zeph@u-psud.fr;1422
+600798568;Troy;Omar;Portugal;09 73 86 16 83;61812;  ;916
+600508568;Ivory;Regan;Namibia;08 08 49 82 53;21268;Regan.Ivory@u-psud.fr;1152
+600489624;Arden;Nigel;Saudi Arabia;02 04 67 54 73;34730;Nigel.Arden@u-psud.fr;903
+600798568;Avram;Tallulah;Maldives;06 05 07 30 91;79521;Tallulah.Avram@u-psud.fr;54
+600508568;Alfonso;Allegra;Wallis and Futuna;07 76 62 53 31;84354;Allegra.Alfonso@u-psud.fr;681
+;Piper;Kirk;Viet Nam;01 75 62 95 23;74262;Kirk.Piper@u-psud.fr;167
+;Brielle;Lois;Cayman Islands;06 29 75 44 63;33261;Lois.Brielle@u-psud.fr;574
+;Ivana;Bo;Wallis and Futuna;03 34 88 58 05;51169;Bo.Ivana@u-psud.fr;93
+;Cooper;Ila;Guinea;05 44 35 72 12;18320;Ila.Cooper@u-psud.fr;122
+600489624;Vladimir;Virginia;Latvia;07 96 29 14 59;98561;Virginia.Vladimir@u-psud.fr;397
+600798568;Brent;Alvin;Ghana;06 53 88 49 52;73620;Alvin.Brent@u-psud.fr;165
+600508568;Quintessa;Orli;British Indian Ocean Territory;01 48 91 62 01;32850;Orli.Quintessa@u-psud.fr;
+;Dustin;Jasper;El Salvador;09 39 72 44 42;71914;Jasper.Dustin@u-psud.fr;
+;Abbot;Allistair;Niue;09 19 03 16 73;78956; ;
+;Madaline;Murphy;Philippines;03 16 20 71 67;79069;Murphy.Madaline@u-psud.fr;
+;Kelsey;Sacha;United States;08 48 93 01 02;45977;Sacha.Kelsey@u-psud.fr;
+;Jerome;Magee;Palau;07 41 91 95 47;26633; ;
+;Rhoda;Tarik;Norfolk Island;09 06 17 02 48;99341;Tarik.Rhoda@u-psud.fr;
+600489624;Kamal;Leroy;Macedonia;04 46 28 51 18;24527;Leroy.Kamal@u-psud.fr;
+600798568;Gannon;Baker;United Arab Emirates;01 72 30 37 48;41904;Baker.Gannon@u-psud.fr;
+600508568;Xantha;Marsden;Maldives;07 94 97 55 97;82635;Marsden.Xantha@u-psud.fr;
+600489624;Aspen;Benedict;United States;02 33 06 26 87;73670;Benedict.Aspen@u-psud.fr;
+600798568;Amy;Rahim;Bhutan;07 32 65 32 39;79542;Rahim.Amy@u-psud.fr;
+600508568;Melodie;Evelyn;Mongolia;08 47 45 11 99;98250;Evelyn.Melodie@u-psud.fr;
+600489624;zarrouki;wafa;Tunisie;08 44 04 86 77;78140;  ;
+600798568;El-Mir;Omar;Tunisie;07 14 31 10 58;95250;  ;22
+600508568;agrebi;faten;Tunisie;01 18 73 99 34;95250;faten.agrebi@u-psud.fr;414
+600489624;zid;selim;Tunisie;02 86 39 65 50;78451;selim.zid@u-psud.fr;215
+600798568;mouelhi;myriam;Tunisie;04 12 31 23 80;93300;myriam.mouelhi@u-psud.fr;
+600508568;mouelhi;marwa;Tunisie;07 64 05 39 45;78541;marwa.mouelhi@u-psud.fr;1056
+600489624;Forrest;Troy;Monaco;04 45 50 60 53;90594;Troy.Forrest@u-psud.fr;538
+600798568;Herman;Talon;Montserrat;05 37 58 69 65;17901;Talon.Herman@u-psud.fr;996
+600508568;Sage;Fletcher;Kiribati;04 13 96 86 53;11006;Fletcher.Sage@u-psud.fr;440
+600489624;Remedios;Alec;Chile;03 54 65 90 86;78000;   ;1086
+600798568;Berk;Ronan;Cuba;07 55 64 15 07;22297;Ronan.Berk@u-psud.fr;535
+600508568;Dara;Salvador;Niue;04 17 17 23 04;98562;Salvador.Dara@u-psud.fr;762
+600489624;Malachi;Madaline;Ghana;06 69 37 22 09;52952;Madaline.Malachi@u-psud.fr;545
+600798568;Jerry;Samson;Spain;03 81 85 68 71;20661;Samson.Jerry@u-psud.fr;1402
+600508568;Ursula;Sara;Mozambique;05 81 03 75 76;73060;Sara.Ursula@u-psud.fr;543
+600489624;Alfonso;Rana;Brazil;04 22 55 94 55;78650;Rana.Alfonso@u-psud.fr;910
+600798568;Shana;Lillith;Vanuatu;05 23 67 32 88;92910;Lillith.Shana@u-psud.fr;723
+600508568;Pascale;Florence;Jersey;06 36 72 50 40;78747;Florence.Pascale@u-psud.fr;888
+;Lucas;Upton;Saint Lucia;03 16 97 21 95;30481;  ;1133
+;Alvin;Alexandra;Equatorial Guinea;04 60 89 85 46;71880;Alexandra.Alvin@u-psud.fr;695
+;Astra;Forrest;Ukraine;08 50 93 94 59;37233; ;996
+;Cade;Julian;Sri Lanka;01 16 39 13 24;24218;  ;5
+;Marah;Rana;Andorra;05 84 10 21 46;73457;Rana.Marah@u-psud.fr;105
+600489624;Maggie;Guy;Burundi;03 66 24 60 37;12516;Guy.Maggie@u-psud.fr;950
+600798568;Abel;Carissa;Irak;03 87 24 98 20;96521;Carissa.Abel@u-psud.fr;1338
+600508568;Mufutau;Kieran;Congo;03 35 67 98 84;47790;Kieran.Mufutau@u-psud.fr;282
+600489624;Reuben;Julian;Malaysia;03 67 84 22 35;78000;  ;843
+600798568;Breanna;Maris;New Zealand;03 28 46 28 97;96200;Maris.Breanna@u-psud.fr;853
+600508568;Doris;Heather;Lithuania;06 49 45 92 62;21845;Heather.Doris@u-psud.fr;50
+600489624;Charles;Joseph;Isle of Man;02 75 86 59 04;38070;  ;782
+600798568;Desirae;Willow;Zambia;01 18 32 02 66;77900;Willow.Desirae@u-psud.fr;902
+600508568;Lareina;Kimberley;Yemen;08 61 76 15 78;79512;Kimberley.Lareina@u-psud.fr;310

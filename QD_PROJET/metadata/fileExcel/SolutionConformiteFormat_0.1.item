@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_0GxJkAvnEeqJRKCzoldFQw" name="SolutionConformiteFormat" dataPackage="_0Gzl0AvnEeqJRKCzoldFQw" Server="Localhost 127.0.0.1" FilePath="C:/Users/ElectroTec/Desktop/Nouveau dossier/outSolutionCompletude.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_0Gzl0AvnEeqJRKCzoldFQw" name="default" dataManager="_0GxJkAvnEeqJRKCzoldFQw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_0Gzl0QvnEeqJRKCzoldFQw" id="_PD6h8AvnEeqJRKCzoldFQw" label="SolutionConformiteFormat">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl0gvnEeqJRKCzoldFQw" label="IDEtudiant" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl0wvnEeqJRKCzoldFQw" label="Nom" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl1AvnEeqJRKCzoldFQw" label="Prenom" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl1QvnEeqJRKCzoldFQw" label="Nationalite" length="33" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl1gvnEeqJRKCzoldFQw" label="Telephone" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl1wvnEeqJRKCzoldFQw" label="Adresse" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl2AvnEeqJRKCzoldFQw" label="Email" length="35" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0Gzl2QvnEeqJRKCzoldFQw" label="Revenus" length="-1" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

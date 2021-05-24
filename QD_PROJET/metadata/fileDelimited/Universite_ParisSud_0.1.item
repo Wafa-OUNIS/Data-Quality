@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_l67jEQAMEeqjNsdTGKjrbw" name="Universite_ParisSud" id="_l67jEAAMEeqjNsdTGKjrbw" dataPackage="_l68KIAAMEeqjNsdTGKjrbw" Server="Localhost 127.0.0.1" FilePath="C:/Users/ElectroTec/Desktop/UnivParisSud.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_l68KIAAMEeqjNsdTGKjrbw" name="default" dataManager="_l67jEQAMEeqjNsdTGKjrbw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_l68KIQAMEeqjNsdTGKjrbw" id="_Z7OP0AAMEeqjNsdTGKjrbw" label="Universite_ParisSud">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CAScgAATEeqjNsdTGKjrbw" label="NumEtudiant" length="9" talendType="id_String" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CAScgQATEeqjNsdTGKjrbw" label="Nom" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CAScggATEeqjNsdTGKjrbw" label="Prenom" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CAScgwATEeqjNsdTGKjrbw" label="Nationalite" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CASchAATEeqjNsdTGKjrbw" label="NumTelephone" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CASchQATEeqjNsdTGKjrbw" label="Adresse" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CASchgATEeqjNsdTGKjrbw" label="Email" length="48" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CASchwATEeqjNsdTGKjrbw" label="Revenus" length="-1" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
